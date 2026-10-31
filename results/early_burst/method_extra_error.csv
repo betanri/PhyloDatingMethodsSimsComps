@@ -1,0 +1,421 @@
+"measure","by","set","group","method","n","median"
+"whole_extra","all","early","all","RelTime",80,0.154721510355549
+"whole_extra","all","early","all","MD-Cat",80,0.0789510747422937
+"whole_extra","all","early","all","treePL",80,0.48312770440578
+"whole_extra","all","early","all","chronos_clock",76,0.436535652001475
+"whole_extra","all","early","all","chronos_discrete",80,0.337560475901812
+"whole_extra","all","early","all","chronos_correlated",80,2.93766017475967
+"whole_extra","all","early","all","chronos_relaxed",80,2.93766017548994
+"whole_extra","all","late","all","RelTime",80,0.210712561026642
+"whole_extra","all","late","all","MD-Cat",77,0.0808387748523054
+"whole_extra","all","late","all","treePL",80,0.378464329977291
+"whole_extra","all","late","all","chronos_clock",75,0.345558657610379
+"whole_extra","all","late","all","chronos_discrete",80,0.427464718627221
+"whole_extra","all","late","all","chronos_correlated",80,3.45752180675168
+"whole_extra","all","late","all","chronos_relaxed",80,3.45752180754849
+"whole_extra","cal_set","early","sparse6","RelTime",40,0.232359311785463
+"whole_extra","cal_set","early","sparse6","MD-Cat",40,0.162585935394849
+"whole_extra","cal_set","early","sparse6","treePL",40,0.0419892553276192
+"whole_extra","cal_set","early","sparse6","chronos_clock",40,0.0650897581550911
+"whole_extra","cal_set","early","sparse6","chronos_discrete",40,0.0728373453839504
+"whole_extra","cal_set","early","sparse6","chronos_correlated",40,3.11211686131652
+"whole_extra","cal_set","early","sparse6","chronos_relaxed",40,3.11211686278772
+"whole_extra","cal_set","early","fossil10","RelTime",40,0.0825525040215174
+"whole_extra","cal_set","early","fossil10","MD-Cat",40,0.0142296050465852
+"whole_extra","cal_set","early","fossil10","treePL",40,1.16024187382033
+"whole_extra","cal_set","early","fossil10","chronos_clock",36,0.708296353865501
+"whole_extra","cal_set","early","fossil10","chronos_discrete",40,0.659827989548894
+"whole_extra","cal_set","early","fossil10","chronos_correlated",40,2.7038598151776
+"whole_extra","cal_set","early","fossil10","chronos_relaxed",40,2.70385981554188
+"whole_extra","cal_set","late","sparse6","RelTime",40,0.257036316742257
+"whole_extra","cal_set","late","sparse6","MD-Cat",40,0.108941964082878
+"whole_extra","cal_set","late","sparse6","treePL",40,0.199505513284111
+"whole_extra","cal_set","late","sparse6","chronos_clock",39,0.267227022523269
+"whole_extra","cal_set","late","sparse6","chronos_discrete",40,0.224324076872185
+"whole_extra","cal_set","late","sparse6","chronos_correlated",40,3.71162395743804
+"whole_extra","cal_set","late","sparse6","chronos_relaxed",40,3.7116239780518
+"whole_extra","cal_set","late","fossil10","RelTime",40,0.203139124834131
+"whole_extra","cal_set","late","fossil10","MD-Cat",37,0.0142857266074141
+"whole_extra","cal_set","late","fossil10","treePL",40,0.783031142806921
+"whole_extra","cal_set","late","fossil10","chronos_clock",36,0.376083620346474
+"whole_extra","cal_set","late","fossil10","chronos_discrete",40,0.58822814164284
+"whole_extra","cal_set","late","fossil10","chronos_correlated",40,2.68653021458125
+"whole_extra","cal_set","late","fossil10","chronos_relaxed",40,2.68653021601456
+"whole_extra","rate_model","early","acln","RelTime",20,0.0428357509757795
+"whole_extra","rate_model","early","acln","MD-Cat",20,1.06582291713643
+"whole_extra","rate_model","early","acln","treePL",20,0.202479958378986
+"whole_extra","rate_model","early","acln","chronos_clock",19,1.26745359343773
+"whole_extra","rate_model","early","acln","chronos_discrete",20,1.30349944993088
+"whole_extra","rate_model","early","acln","chronos_correlated",20,3.34108570513553
+"whole_extra","rate_model","early","acln","chronos_relaxed",20,3.34108570582013
+"whole_extra","rate_model","early","ucln","RelTime",20,0.151732165714654
+"whole_extra","rate_model","early","ucln","MD-Cat",20,0.125782642531228
+"whole_extra","rate_model","early","ucln","treePL",20,0.35093134564439
+"whole_extra","rate_model","early","ucln","chronos_clock",17,0.0482711261765283
+"whole_extra","rate_model","early","ucln","chronos_discrete",20,0.0743079004676876
+"whole_extra","rate_model","early","ucln","chronos_correlated",20,2.44355919403057
+"whole_extra","rate_model","early","ucln","chronos_relaxed",20,2.44355920790323
+"whole_extra","rate_model","early","discrete","RelTime",20,0.428342172520051
+"whole_extra","rate_model","early","discrete","MD-Cat",20,0
+"whole_extra","rate_model","early","discrete","treePL",20,1.36073278551151
+"whole_extra","rate_model","early","discrete","chronos_clock",20,0.332904837184866
+"whole_extra","rate_model","early","discrete","chronos_discrete",20,0.403990821006944
+"whole_extra","rate_model","early","discrete","chronos_correlated",20,2.23015556693507
+"whole_extra","rate_model","early","discrete","chronos_relaxed",20,2.23015556730272
+"whole_extra","rate_model","early","punct","RelTime",20,0.119786719502185
+"whole_extra","rate_model","early","punct","MD-Cat",20,0.0495819502421203
+"whole_extra","rate_model","early","punct","treePL",20,0.143708899764316
+"whole_extra","rate_model","early","punct","chronos_clock",20,0.0736934931772955
+"whole_extra","rate_model","early","punct","chronos_discrete",20,0.0728373453839504
+"whole_extra","rate_model","early","punct","chronos_correlated",20,4.21805383643391
+"whole_extra","rate_model","early","punct","chronos_relaxed",20,4.21805383942659
+"whole_extra","rate_model","late","acln","RelTime",20,0.0474058143752011
+"whole_extra","rate_model","late","acln","MD-Cat",19,0.482266647449253
+"whole_extra","rate_model","late","acln","treePL",20,0.129926365970708
+"whole_extra","rate_model","late","acln","chronos_clock",20,1.47465372751573
+"whole_extra","rate_model","late","acln","chronos_discrete",20,1.36700712282481
+"whole_extra","rate_model","late","acln","chronos_correlated",20,3.67619691538454
+"whole_extra","rate_model","late","acln","chronos_relaxed",20,3.67619691552654
+"whole_extra","rate_model","late","ucln","RelTime",20,0.193716420841053
+"whole_extra","rate_model","late","ucln","MD-Cat",19,0.114003146034889
+"whole_extra","rate_model","late","ucln","treePL",20,0.0909219422515986
+"whole_extra","rate_model","late","ucln","chronos_clock",18,0.105269177197991
+"whole_extra","rate_model","late","ucln","chronos_discrete",20,0.0885150338712798
+"whole_extra","rate_model","late","ucln","chronos_correlated",20,2.61026047752942
+"whole_extra","rate_model","late","ucln","chronos_relaxed",20,2.6102604778792
+"whole_extra","rate_model","late","discrete","RelTime",20,0.600552964587514
+"whole_extra","rate_model","late","discrete","MD-Cat",19,0
+"whole_extra","rate_model","late","discrete","treePL",20,0.858898105461391
+"whole_extra","rate_model","late","discrete","chronos_clock",17,0.69911109961576
+"whole_extra","rate_model","late","discrete","chronos_discrete",20,0.629406760721266
+"whole_extra","rate_model","late","discrete","chronos_correlated",20,2.76050139565155
+"whole_extra","rate_model","late","discrete","chronos_relaxed",20,2.76050139763515
+"whole_extra","rate_model","late","punct","RelTime",20,0.208267468441656
+"whole_extra","rate_model","late","punct","MD-Cat",20,0.0550471626223648
+"whole_extra","rate_model","late","punct","treePL",20,0.372132676945405
+"whole_extra","rate_model","late","punct","chronos_clock",20,0.0844834425259746
+"whole_extra","rate_model","late","punct","chronos_discrete",20,0.0963047338885371
+"whole_extra","rate_model","late","punct","chronos_correlated",20,3.95855430002031
+"whole_extra","rate_model","late","punct","chronos_relaxed",20,3.95855409331923
+"whole_extra","cell","early","acln sparse6","RelTime",10,0.258455672513776
+"whole_extra","cell","early","acln sparse6","MD-Cat",10,1.28382931236844
+"whole_extra","cell","early","acln sparse6","treePL",10,0
+"whole_extra","cell","early","acln sparse6","chronos_clock",10,1.54037342889485
+"whole_extra","cell","early","acln sparse6","chronos_discrete",10,1.53835467767363
+"whole_extra","cell","early","acln sparse6","chronos_correlated",10,4.19996974639525
+"whole_extra","cell","early","acln sparse6","chronos_relaxed",10,4.19996974713494
+"whole_extra","cell","early","acln fossil10","RelTime",10,0
+"whole_extra","cell","early","acln fossil10","MD-Cat",10,0.613843580514957
+"whole_extra","cell","early","acln fossil10","treePL",10,1.05837175181969
+"whole_extra","cell","early","acln fossil10","chronos_clock",9,0.930461026615151
+"whole_extra","cell","early","acln fossil10","chronos_discrete",10,1.22311116872129
+"whole_extra","cell","early","acln fossil10","chronos_correlated",10,2.38637578277377
+"whole_extra","cell","early","acln fossil10","chronos_relaxed",10,2.38637578240673
+"whole_extra","cell","early","ucln sparse6","RelTime",10,0.202410897459682
+"whole_extra","cell","early","ucln sparse6","MD-Cat",10,0.143150361487945
+"whole_extra","cell","early","ucln sparse6","treePL",10,0.290422816586183
+"whole_extra","cell","early","ucln sparse6","chronos_clock",10,0.00242883962099061
+"whole_extra","cell","early","ucln sparse6","chronos_discrete",10,0.00151074900113601
+"whole_extra","cell","early","ucln sparse6","chronos_correlated",10,2.44573779325461
+"whole_extra","cell","early","ucln sparse6","chronos_relaxed",10,2.4457377936545
+"whole_extra","cell","early","ucln fossil10","RelTime",10,0.1140422026276
+"whole_extra","cell","early","ucln fossil10","MD-Cat",10,0.0261535547607656
+"whole_extra","cell","early","ucln fossil10","treePL",10,0.679008827471461
+"whole_extra","cell","early","ucln fossil10","chronos_clock",7,0.640780138435135
+"whole_extra","cell","early","ucln fossil10","chronos_discrete",10,0.261580127800527
+"whole_extra","cell","early","ucln fossil10","chronos_correlated",10,2.19033157229495
+"whole_extra","cell","early","ucln fossil10","chronos_relaxed",10,2.1903315860709
+"whole_extra","cell","early","discrete sparse6","RelTime",10,0.515609380999987
+"whole_extra","cell","early","discrete sparse6","MD-Cat",10,0
+"whole_extra","cell","early","discrete sparse6","treePL",10,0.546834203214141
+"whole_extra","cell","early","discrete sparse6","chronos_clock",10,0.154498519991459
+"whole_extra","cell","early","discrete sparse6","chronos_discrete",10,0.206515705629751
+"whole_extra","cell","early","discrete sparse6","chronos_correlated",10,1.77725465303434
+"whole_extra","cell","early","discrete sparse6","chronos_relaxed",10,1.77725465369445
+"whole_extra","cell","early","discrete fossil10","RelTime",10,0.296610645914155
+"whole_extra","cell","early","discrete fossil10","MD-Cat",10,0
+"whole_extra","cell","early","discrete fossil10","treePL",10,2.03499280160611
+"whole_extra","cell","early","discrete fossil10","chronos_clock",10,0.670142554752799
+"whole_extra","cell","early","discrete fossil10","chronos_discrete",10,0.620702282978515
+"whole_extra","cell","early","discrete fossil10","chronos_correlated",10,2.51877702293569
+"whole_extra","cell","early","discrete fossil10","chronos_relaxed",10,2.518777023894
+"whole_extra","cell","early","punct sparse6","RelTime",10,0.119786719502185
+"whole_extra","cell","early","punct sparse6","MD-Cat",10,0.0682991381479726
+"whole_extra","cell","early","punct sparse6","treePL",10,0.0155971705958042
+"whole_extra","cell","early","punct sparse6","chronos_clock",10,0.000609044554521376
+"whole_extra","cell","early","punct sparse6","chronos_discrete",10,0.0012337113679165
+"whole_extra","cell","early","punct sparse6","chronos_correlated",10,4.30148020945003
+"whole_extra","cell","early","punct sparse6","chronos_relaxed",10,4.30148021106607
+"whole_extra","cell","early","punct fossil10","RelTime",10,0.100913117833502
+"whole_extra","cell","early","punct fossil10","MD-Cat",10,0.00458019183673819
+"whole_extra","cell","early","punct fossil10","treePL",10,0.984416404270053
+"whole_extra","cell","early","punct fossil10","chronos_clock",10,0.799166576795003
+"whole_extra","cell","early","punct fossil10","chronos_discrete",10,0.77898018396965
+"whole_extra","cell","early","punct fossil10","chronos_correlated",10,4.13852492315402
+"whole_extra","cell","early","punct fossil10","chronos_relaxed",10,4.13852492563384
+"whole_extra","cell","late","acln sparse6","RelTime",10,0.0474058143752011
+"whole_extra","cell","late","acln sparse6","MD-Cat",10,0.949691307699109
+"whole_extra","cell","late","acln sparse6","treePL",10,0
+"whole_extra","cell","late","acln sparse6","chronos_clock",10,1.66526774120649
+"whole_extra","cell","late","acln sparse6","chronos_discrete",10,1.36700712282481
+"whole_extra","cell","late","acln sparse6","chronos_correlated",10,5.42398808972706
+"whole_extra","cell","late","acln sparse6","chronos_relaxed",10,5.42398809252155
+"whole_extra","cell","late","acln fossil10","RelTime",10,0.0411279556218574
+"whole_extra","cell","late","acln fossil10","MD-Cat",9,0.239002915120709
+"whole_extra","cell","late","acln fossil10","treePL",10,0.27495914955988
+"whole_extra","cell","late","acln fossil10","chronos_clock",10,0.559375076076373
+"whole_extra","cell","late","acln fossil10","chronos_discrete",10,1.01387388980077
+"whole_extra","cell","late","acln fossil10","chronos_correlated",10,2.62233137253447
+"whole_extra","cell","late","acln fossil10","chronos_relaxed",10,2.62233137234174
+"whole_extra","cell","late","ucln sparse6","RelTime",10,0.180583742784232
+"whole_extra","cell","late","ucln sparse6","MD-Cat",10,0.102280140566319
+"whole_extra","cell","late","ucln sparse6","treePL",10,0.0592631164334178
+"whole_extra","cell","late","ucln sparse6","chronos_clock",9,0.0201710328061484
+"whole_extra","cell","late","ucln sparse6","chronos_discrete",10,0.0420941169585483
+"whole_extra","cell","late","ucln sparse6","chronos_correlated",10,3.11988280243162
+"whole_extra","cell","late","ucln sparse6","chronos_relaxed",10,3.11988280504923
+"whole_extra","cell","late","ucln fossil10","RelTime",10,0.203139124834131
+"whole_extra","cell","late","ucln fossil10","MD-Cat",9,0.138876697992337
+"whole_extra","cell","late","ucln fossil10","treePL",10,0.206904131507884
+"whole_extra","cell","late","ucln fossil10","chronos_clock",9,0.126115562059738
+"whole_extra","cell","late","ucln fossil10","chronos_discrete",10,0.390331341437125
+"whole_extra","cell","late","ucln fossil10","chronos_correlated",10,2.28504036675982
+"whole_extra","cell","late","ucln fossil10","chronos_relaxed",10,2.28504036381162
+"whole_extra","cell","late","discrete sparse6","RelTime",10,0.575675634056288
+"whole_extra","cell","late","discrete sparse6","MD-Cat",10,0
+"whole_extra","cell","late","discrete sparse6","treePL",10,0.902982063696201
+"whole_extra","cell","late","discrete sparse6","chronos_clock",10,0.699665800729898
+"whole_extra","cell","late","discrete sparse6","chronos_discrete",10,0.543131407277618
+"whole_extra","cell","late","discrete sparse6","chronos_correlated",10,3.34027018187824
+"whole_extra","cell","late","discrete sparse6","chronos_relaxed",10,3.34027018379895
+"whole_extra","cell","late","discrete fossil10","RelTime",10,0.600552964587514
+"whole_extra","cell","late","discrete fossil10","MD-Cat",9,0
+"whole_extra","cell","late","discrete fossil10","treePL",10,0.858898105461391
+"whole_extra","cell","late","discrete fossil10","chronos_clock",7,0.560326847046583
+"whole_extra","cell","late","discrete fossil10","chronos_discrete",10,0.66364918774709
+"whole_extra","cell","late","discrete fossil10","chronos_correlated",10,2.31792318819498
+"whole_extra","cell","late","discrete fossil10","chronos_relaxed",10,2.31792318789975
+"whole_extra","cell","late","punct sparse6","RelTime",10,0.226974485863528
+"whole_extra","cell","late","punct sparse6","MD-Cat",10,0.0902304593755988
+"whole_extra","cell","late","punct sparse6","treePL",10,0.0825495307150858
+"whole_extra","cell","late","punct sparse6","chronos_clock",10,0.0408583447257893
+"whole_extra","cell","late","punct sparse6","chronos_discrete",10,0.0408155573101726
+"whole_extra","cell","late","punct sparse6","chronos_correlated",10,4.14591528725598
+"whole_extra","cell","late","punct sparse6","chronos_relaxed",10,4.14591528802157
+"whole_extra","cell","late","punct fossil10","RelTime",10,0.177785266992022
+"whole_extra","cell","late","punct fossil10","MD-Cat",10,0
+"whole_extra","cell","late","punct fossil10","treePL",10,1.12259367345198
+"whole_extra","cell","late","punct fossil10","chronos_clock",10,0.285341561755185
+"whole_extra","cell","late","punct fossil10","chronos_discrete",10,0.568187600610525
+"whole_extra","cell","late","punct fossil10","chronos_correlated",10,3.82875340827123
+"whole_extra","cell","late","punct fossil10","chronos_relaxed",10,3.82875320075155
+"burst_extra","all","early","all","RelTime",80,0.142584112783623
+"burst_extra","all","early","all","MD-Cat",80,0.087230451898883
+"burst_extra","all","early","all","treePL",80,0.447810155256974
+"burst_extra","all","early","all","chronos_clock",76,0.426647462911287
+"burst_extra","all","early","all","chronos_discrete",80,0.31527964251852
+"burst_extra","all","early","all","chronos_correlated",80,2.95250977746381
+"burst_extra","all","early","all","chronos_relaxed",80,2.95250977761169
+"burst_extra","all","late","all","RelTime",80,0.247499938415972
+"burst_extra","all","late","all","MD-Cat",77,0.0729110227679948
+"burst_extra","all","late","all","treePL",80,0.367306703704996
+"burst_extra","all","late","all","chronos_clock",75,0.404400815715345
+"burst_extra","all","late","all","chronos_discrete",80,0.369826126181314
+"burst_extra","all","late","all","chronos_correlated",80,3.2159578823165
+"burst_extra","all","late","all","chronos_relaxed",80,3.21595790697626
+"burst_extra","cal_set","early","sparse6","RelTime",40,0.239667000635845
+"burst_extra","cal_set","early","sparse6","MD-Cat",40,0.167304652430176
+"burst_extra","cal_set","early","sparse6","treePL",40,0.0422345175543389
+"burst_extra","cal_set","early","sparse6","chronos_clock",40,0.0648596302517955
+"burst_extra","cal_set","early","sparse6","chronos_discrete",40,0.07227649437063
+"burst_extra","cal_set","early","sparse6","chronos_correlated",40,3.08365389900426
+"burst_extra","cal_set","early","sparse6","chronos_relaxed",40,3.08365390009221
+"burst_extra","cal_set","early","fossil10","RelTime",40,0.0457563942430841
+"burst_extra","cal_set","early","fossil10","MD-Cat",40,0.0267519169286204
+"burst_extra","cal_set","early","fossil10","treePL",40,1.16612218917944
+"burst_extra","cal_set","early","fossil10","chronos_clock",36,0.685959332599403
+"burst_extra","cal_set","early","fossil10","chronos_discrete",40,0.679863470241438
+"burst_extra","cal_set","early","fossil10","chronos_correlated",40,2.68627663232482
+"burst_extra","cal_set","early","fossil10","chronos_relaxed",40,2.68627663597348
+"burst_extra","cal_set","late","sparse6","RelTime",40,0.238074590746022
+"burst_extra","cal_set","late","sparse6","MD-Cat",40,0.120517153304881
+"burst_extra","cal_set","late","sparse6","treePL",40,0.13033602820088
+"burst_extra","cal_set","late","sparse6","chronos_clock",39,0.307816876708805
+"burst_extra","cal_set","late","sparse6","chronos_discrete",40,0.175054108274557
+"burst_extra","cal_set","late","sparse6","chronos_correlated",40,3.39529790147269
+"burst_extra","cal_set","late","sparse6","chronos_relaxed",40,3.39529798797735
+"burst_extra","cal_set","late","fossil10","RelTime",40,0.254208841097263
+"burst_extra","cal_set","late","fossil10","MD-Cat",37,0.0668100810407368
+"burst_extra","cal_set","late","fossil10","treePL",40,0.629415780954315
+"burst_extra","cal_set","late","fossil10","chronos_clock",36,0.450419606789958
+"burst_extra","cal_set","late","fossil10","chronos_discrete",40,0.68190962133196
+"burst_extra","cal_set","late","fossil10","chronos_correlated",40,2.41640722845457
+"burst_extra","cal_set","late","fossil10","chronos_relaxed",40,2.41640722909741
+"burst_extra","rate_model","early","acln","RelTime",20,0.0376760284443796
+"burst_extra","rate_model","early","acln","MD-Cat",20,1.03342599444727
+"burst_extra","rate_model","early","acln","treePL",20,0.249833294791592
+"burst_extra","rate_model","early","acln","chronos_clock",19,1.28506512314982
+"burst_extra","rate_model","early","acln","chronos_discrete",20,1.32114651053472
+"burst_extra","rate_model","early","acln","chronos_correlated",20,3.20159163037146
+"burst_extra","rate_model","early","acln","chronos_relaxed",20,3.20159163105974
+"burst_extra","rate_model","early","ucln","RelTime",20,0.150801538933
+"burst_extra","rate_model","early","ucln","MD-Cat",20,0.127914263519059
+"burst_extra","rate_model","early","ucln","treePL",20,0.33080432613926
+"burst_extra","rate_model","early","ucln","chronos_clock",17,0.0383865400385623
+"burst_extra","rate_model","early","ucln","chronos_discrete",20,0.0825773539228952
+"burst_extra","rate_model","early","ucln","chronos_correlated",20,2.2756420164777
+"burst_extra","rate_model","early","ucln","chronos_relaxed",20,2.27564201776961
+"burst_extra","rate_model","early","discrete","RelTime",20,0.394787858640803
+"burst_extra","rate_model","early","discrete","MD-Cat",20,0
+"burst_extra","rate_model","early","discrete","treePL",20,1.41056935671024
+"burst_extra","rate_model","early","discrete","chronos_clock",20,0.361390471022698
+"burst_extra","rate_model","early","discrete","chronos_discrete",20,0.433381383210199
+"burst_extra","rate_model","early","discrete","chronos_correlated",20,2.04734386543818
+"burst_extra","rate_model","early","discrete","chronos_relaxed",20,2.04734386664914
+"burst_extra","rate_model","early","punct","RelTime",20,0.11211158027412
+"burst_extra","rate_model","early","punct","MD-Cat",20,0.0560035929580912
+"burst_extra","rate_model","early","punct","treePL",20,0.136330473447585
+"burst_extra","rate_model","early","punct","chronos_clock",20,0.0648596302517955
+"burst_extra","rate_model","early","punct","chronos_discrete",20,0.0647486164337086
+"burst_extra","rate_model","early","punct","chronos_correlated",20,4.05343659223199
+"burst_extra","rate_model","early","punct","chronos_relaxed",20,4.0534365927255
+"burst_extra","rate_model","late","acln","RelTime",20,0.081935369198581
+"burst_extra","rate_model","late","acln","MD-Cat",19,0.491303018913728
+"burst_extra","rate_model","late","acln","treePL",20,0.193832356936711
+"burst_extra","rate_model","late","acln","chronos_clock",20,1.25972552970123
+"burst_extra","rate_model","late","acln","chronos_discrete",20,1.1237145384956
+"burst_extra","rate_model","late","acln","chronos_correlated",20,4.04630359365506
+"burst_extra","rate_model","late","acln","chronos_relaxed",20,4.04630359420018
+"burst_extra","rate_model","late","ucln","RelTime",20,0.175491621169573
+"burst_extra","rate_model","late","ucln","MD-Cat",19,0.2040930361258
+"burst_extra","rate_model","late","ucln","treePL",20,0.0968745823186997
+"burst_extra","rate_model","late","ucln","chronos_clock",18,0.0995844920163823
+"burst_extra","rate_model","late","ucln","chronos_discrete",20,0.0966275839034765
+"burst_extra","rate_model","late","ucln","chronos_correlated",20,2.62111330424757
+"burst_extra","rate_model","late","ucln","chronos_relaxed",20,2.62111330650827
+"burst_extra","rate_model","late","discrete","RelTime",20,0.513440325745005
+"burst_extra","rate_model","late","discrete","MD-Cat",19,0
+"burst_extra","rate_model","late","discrete","treePL",20,0.972875089946563
+"burst_extra","rate_model","late","discrete","chronos_clock",17,0.480805964488436
+"burst_extra","rate_model","late","discrete","chronos_discrete",20,0.565820204159781
+"burst_extra","rate_model","late","discrete","chronos_correlated",20,2.33280334894142
+"burst_extra","rate_model","late","discrete","chronos_relaxed",20,2.33280334822243
+"burst_extra","rate_model","late","punct","RelTime",20,0.186001661003694
+"burst_extra","rate_model","late","punct","MD-Cat",20,0.0453928061395006
+"burst_extra","rate_model","late","punct","treePL",20,0.353764962325453
+"burst_extra","rate_model","late","punct","chronos_clock",20,0.082776566210936
+"burst_extra","rate_model","late","punct","chronos_discrete",20,0.110553734668437
+"burst_extra","rate_model","late","punct","chronos_correlated",20,3.48660296034007
+"burst_extra","rate_model","late","punct","chronos_relaxed",20,3.48660296144931
+"burst_extra","cell","early","acln sparse6","RelTime",10,0.223105162244698
+"burst_extra","cell","early","acln sparse6","MD-Cat",10,1.30495299462319
+"burst_extra","cell","early","acln sparse6","treePL",10,0
+"burst_extra","cell","early","acln sparse6","chronos_clock",10,1.57277672632019
+"burst_extra","cell","early","acln sparse6","chronos_discrete",10,1.57111883094411
+"burst_extra","cell","early","acln sparse6","chronos_correlated",10,4.11671445102101
+"burst_extra","cell","early","acln sparse6","chronos_relaxed",10,4.11671445186465
+"burst_extra","cell","early","acln fossil10","RelTime",10,0
+"burst_extra","cell","early","acln fossil10","MD-Cat",10,0.623981482871456
+"burst_extra","cell","early","acln fossil10","treePL",10,1.07927453019368
+"burst_extra","cell","early","acln fossil10","chronos_clock",9,1.07695045067953
+"burst_extra","cell","early","acln fossil10","chronos_discrete",10,1.29473791365631
+"burst_extra","cell","early","acln fossil10","chronos_correlated",10,2.43410889828733
+"burst_extra","cell","early","acln fossil10","chronos_relaxed",10,2.43410889784246
+"burst_extra","cell","early","ucln sparse6","RelTime",10,0.190098283858262
+"burst_extra","cell","early","ucln sparse6","MD-Cat",10,0.142175514140157
+"burst_extra","cell","early","ucln sparse6","treePL",10,0.270295796442556
+"burst_extra","cell","early","ucln sparse6","chronos_clock",10,0.00280821888214566
+"burst_extra","cell","early","ucln sparse6","chronos_discrete",10,0.00151074900869397
+"burst_extra","cell","early","ucln sparse6","chronos_correlated",10,2.2756420164777
+"burst_extra","cell","early","ucln sparse6","chronos_relaxed",10,2.27564201776961
+"burst_extra","cell","early","ucln fossil10","RelTime",10,0.0796781744219692
+"burst_extra","cell","early","ucln fossil10","MD-Cat",10,0.047128792668705
+"burst_extra","cell","early","ucln fossil10","treePL",10,0.723425732389183
+"burst_extra","cell","early","ucln fossil10","chronos_clock",7,0.610653076788452
+"burst_extra","cell","early","ucln fossil10","chronos_discrete",10,0.252138876665902
+"burst_extra","cell","early","ucln fossil10","chronos_correlated",10,2.07570226187862
+"burst_extra","cell","early","ucln fossil10","chronos_relaxed",10,2.07570226191369
+"burst_extra","cell","early","discrete sparse6","RelTime",10,0.457012457997623
+"burst_extra","cell","early","discrete sparse6","MD-Cat",10,0
+"burst_extra","cell","early","discrete sparse6","treePL",10,0.49493500012375
+"burst_extra","cell","early","discrete sparse6","chronos_clock",10,0.11432468822494
+"burst_extra","cell","early","discrete sparse6","chronos_discrete",10,0.200045845812183
+"burst_extra","cell","early","discrete sparse6","chronos_correlated",10,1.72675074823311
+"burst_extra","cell","early","discrete sparse6","chronos_relaxed",10,1.72675074932742
+"burst_extra","cell","early","discrete fossil10","RelTime",10,0.280992201208833
+"burst_extra","cell","early","discrete fossil10","MD-Cat",10,0
+"burst_extra","cell","early","discrete fossil10","treePL",10,1.97540294675935
+"burst_extra","cell","early","discrete fossil10","chronos_clock",10,0.655618781487189
+"burst_extra","cell","early","discrete fossil10","chronos_discrete",10,0.627286291315666
+"burst_extra","cell","early","discrete fossil10","chronos_correlated",10,2.42045518421325
+"burst_extra","cell","early","discrete fossil10","chronos_relaxed",10,2.42045518451615
+"burst_extra","cell","early","punct sparse6","RelTime",10,0.129984481242824
+"burst_extra","cell","early","punct sparse6","MD-Cat",10,0.121353254340516
+"burst_extra","cell","early","punct sparse6","treePL",10,0.0155971660912416
+"burst_extra","cell","early","punct sparse6","chronos_clock",10,0.000629414355806546
+"burst_extra","cell","early","punct sparse6","chronos_discrete",10,0.00123371333242217
+"burst_extra","cell","early","punct sparse6","chronos_correlated",10,4.05343659223199
+"burst_extra","cell","early","punct sparse6","chronos_relaxed",10,4.0534365927255
+"burst_extra","cell","early","punct fossil10","RelTime",10,0.0368507605549497
+"burst_extra","cell","early","punct fossil10","MD-Cat",10,0
+"burst_extra","cell","early","punct fossil10","treePL",10,0.935636159561153
+"burst_extra","cell","early","punct fossil10","chronos_clock",10,0.807912053906523
+"burst_extra","cell","early","punct fossil10","chronos_discrete",10,0.787271515711173
+"burst_extra","cell","early","punct fossil10","chronos_correlated",10,3.89416155704871
+"burst_extra","cell","early","punct fossil10","chronos_relaxed",10,3.8941615591789
+"burst_extra","cell","late","acln sparse6","RelTime",10,0.069212730684662
+"burst_extra","cell","late","acln sparse6","MD-Cat",10,0.794382950521218
+"burst_extra","cell","late","acln sparse6","treePL",10,0
+"burst_extra","cell","late","acln sparse6","chronos_clock",10,1.48689934624335
+"burst_extra","cell","late","acln sparse6","chronos_discrete",10,1.1237145384956
+"burst_extra","cell","late","acln sparse6","chronos_correlated",10,5.10503213855325
+"burst_extra","cell","late","acln sparse6","chronos_relaxed",10,5.10503214447865
+"burst_extra","cell","late","acln fossil10","RelTime",10,0.17746565396081
+"burst_extra","cell","late","acln fossil10","MD-Cat",9,0.201442843120798
+"burst_extra","cell","late","acln fossil10","treePL",10,0.38145920359867
+"burst_extra","cell","late","acln fossil10","chronos_clock",10,0.689331725809671
+"burst_extra","cell","late","acln fossil10","chronos_discrete",10,1.30667823288396
+"burst_extra","cell","late","acln fossil10","chronos_correlated",10,2.61579317695939
+"burst_extra","cell","late","acln fossil10","chronos_relaxed",10,2.61579317705408
+"burst_extra","cell","late","ucln sparse6","RelTime",10,0.175491621169573
+"burst_extra","cell","late","ucln sparse6","MD-Cat",10,0.175073378141512
+"burst_extra","cell","late","ucln sparse6","treePL",10,0.0910315727984486
+"burst_extra","cell","late","ucln sparse6","chronos_clock",9,0.0334853551129992
+"burst_extra","cell","late","ucln sparse6","chronos_discrete",10,0.0889834304653819
+"burst_extra","cell","late","ucln sparse6","chronos_correlated",10,3.24940379118318
+"burst_extra","cell","late","ucln sparse6","chronos_relaxed",10,3.24940381583286
+"burst_extra","cell","late","ucln fossil10","RelTime",10,0.218541942112448
+"burst_extra","cell","late","ucln fossil10","MD-Cat",9,0.209242132737309
+"burst_extra","cell","late","ucln fossil10","treePL",10,0.129226153059088
+"burst_extra","cell","late","ucln fossil10","chronos_clock",9,0.155659027571215
+"burst_extra","cell","late","ucln fossil10","chronos_discrete",10,0.567072117219827
+"burst_extra","cell","late","ucln fossil10","chronos_correlated",10,1.95742723878201
+"burst_extra","cell","late","ucln fossil10","chronos_relaxed",10,1.95742723585174
+"burst_extra","cell","late","discrete sparse6","RelTime",10,0.451825811214723
+"burst_extra","cell","late","discrete sparse6","MD-Cat",10,0
+"burst_extra","cell","late","discrete sparse6","treePL",10,0.837156004599026
+"burst_extra","cell","late","discrete sparse6","chronos_clock",10,0.574904943069494
+"burst_extra","cell","late","discrete sparse6","chronos_discrete",10,0.450004542854571
+"burst_extra","cell","late","discrete sparse6","chronos_correlated",10,3.25501455567896
+"burst_extra","cell","late","discrete sparse6","chronos_relaxed",10,3.25501455901443
+"burst_extra","cell","late","discrete fossil10","RelTime",10,0.638051263132277
+"burst_extra","cell","late","discrete fossil10","MD-Cat",9,0
+"burst_extra","cell","late","discrete fossil10","treePL",10,0.99828477995749
+"burst_extra","cell","late","discrete fossil10","chronos_clock",7,0.474739035982309
+"burst_extra","cell","late","discrete fossil10","chronos_discrete",10,0.860788775189274
+"burst_extra","cell","late","discrete fossil10","chronos_correlated",10,2.22838549455859
+"burst_extra","cell","late","discrete fossil10","chronos_relaxed",10,2.22838549521509
+"burst_extra","cell","late","punct sparse6","RelTime",10,0.249083257456399
+"burst_extra","cell","late","punct sparse6","MD-Cat",10,0.0453928061395006
+"burst_extra","cell","late","punct sparse6","treePL",10,0.0737070336035375
+"burst_extra","cell","late","punct sparse6","chronos_clock",10,0.0161265758772492
+"burst_extra","cell","late","punct sparse6","chronos_discrete",10,0.0160065189853957
+"burst_extra","cell","late","punct sparse6","chronos_correlated",10,3.84495630112423
+"burst_extra","cell","late","punct sparse6","chronos_relaxed",10,3.84495630242143
+"burst_extra","cell","late","punct fossil10","RelTime",10,0.11359570536137
+"burst_extra","cell","late","punct fossil10","MD-Cat",10,0.0334050405203684
+"burst_extra","cell","late","punct fossil10","treePL",10,0.732665252181778
+"burst_extra","cell","late","punct fossil10","chronos_clock",10,0.173893389665177
+"burst_extra","cell","late","punct fossil10","chronos_discrete",10,0.47455333658618
+"burst_extra","cell","late","punct fossil10","chronos_correlated",10,3.31274051344512
+"burst_extra","cell","late","punct fossil10","chronos_relaxed",10,3.31274051396014

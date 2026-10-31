@@ -1,0 +1,33 @@
+"level","median_root_over_true"
+"Codex F min 0.3-0.6",1.77128053362515
+"Codex F min 0.3-0.6, CV subset",1.77014686170944
+"Codex F min 0.30",1.64810994536387
+"Codex F min 0.45",1.72500003236461
+"Codex F min 0.60",1.80000001898093
+"Codex F min clipped at 1.0",2.00000000924313
+"Codex F min clipped at 1.0, CV subset",2.00000002514763
+"Codex F refit",2.25816365250768
+"Codex F refit, CV subset",2.5435962164398
+"Codex G min 0.3-0.6",1.75834574147184
+"Codex G min 0.3-0.6, CV subset",1.76513397231287
+"Codex G min 0.30",1.63243329452817
+"Codex G min 0.45",1.72032682600257
+"Codex G min 0.60",1.80322911912009
+"Codex G min clipped at 1.0",2.00000000643132
+"Codex G min clipped at 1.0, CV subset",2.00075425924663
+"Codex G refit",2.2320717589197
+"Codex G refit, CV subset",2.38682506878758
+"Codex H min 0.3-0.6",1.7717752792824
+"Codex H min 0.3-0.6, CV subset",1.78447323500145
+"Codex H min 0.30",1.65000002272718
+"Codex H min 0.45",1.72500002367895
+"Codex H min 0.60",1.80000002766927
+"Codex H min clipped at 1.0",2.00000000567224
+"Codex H min clipped at 1.0, CV subset",2.00000002755883
+"Codex H refit",2.14300637276927
+"Codex H refit, CV subset",2.43511319132533
+"sim main min 0.3-0.6",0.916009505410031
+"sim main min 0.30",0.939892712849524
+"sim main min 0.45",0.920891767721383
+"sim main min 0.60",0.941549933465478
+"sim main refit",1.02321853286817
