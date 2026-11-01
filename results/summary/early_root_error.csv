@@ -1,8 +1,8 @@
-"set","cal_set","method","root_err"
+"timing","cal_set","method","median_root_err"
 "early","fossil10","chronos_clock",0.235362145209634
-"late","fossil10","chronos_clock",0.137126948822696
+"late","fossil10","chronos_clock",0.11533307854277
 "early","sparse6","chronos_clock",1.05000026442384e-10
-"late","sparse6","chronos_clock",9.65749791184981e-11
+"late","sparse6","chronos_clock",9.56974588387447e-11
 "early","fossil10","chronos_correlated",0.245878218486658
 "late","fossil10","chronos_correlated",0.158207623836959
 "early","sparse6","chronos_correlated",1.44700109655392e-10
@@ -16,7 +16,7 @@
 "early","sparse6","chronos_relaxed",1.85399926504684e-10
 "late","sparse6","chronos_relaxed",1.55000137155786e-10
 "early","fossil10","MD-Cat",0.0669584998967243
-"late","fossil10","MD-Cat",0.00863799988086992
+"late","fossil10","MD-Cat",0.0146809999412209
 "early","sparse6","MD-Cat",9.99915999942253e-07
 "late","sparse6","MD-Cat",9.99934200086302e-07
 "early","fossil10","RelTime",0.14277129441372

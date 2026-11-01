@@ -1,0 +1,22 @@
+"group","method","median_extra","share","n_datasets"
+"sim het sparse6","RelTime",0.125824723588265,0.345454545454545,55
+"sim het sparse6","MD-Cat",0.156588722551309,0.309090909090909,55
+"sim het sparse6","chronos_clock",0.213899076073894,0.0909090909090909,55
+"sim het sparse6","chronos_discrete",0.268816634354763,0.163636363636364,55
+"sim het sparse6","treePL",0.746444306920943,0.0545454545454545,55
+"sim het sparse6","chronos_correlated",1.40150507708168,0.0272727272727273,55
+"sim het sparse6","chronos_relaxed",1.40150507709702,0.00909090909090909,55
+"sim main fossil10","MD-Cat",0.0221637334810508,0.475,40
+"sim main fossil10","RelTime",0.203139124834131,0.25,40
+"sim main fossil10","chronos_clock",0.376083620346474,0.125,40
+"sim main fossil10","chronos_discrete",0.58822814164284,0.075,40
+"sim main fossil10","treePL",0.783031142806921,0.075,40
+"sim main fossil10","chronos_correlated",2.8935269362358,0,40
+"sim main fossil10","chronos_relaxed",2.89352693767193,0,40
+"sim main sparse6","MD-Cat",0.108941964082878,0.3,40
+"sim main sparse6","treePL",0.199505513284111,0.225,40
+"sim main sparse6","chronos_discrete",0.224324076872185,0.1,40
+"sim main sparse6","chronos_clock",0.253832757467426,0.15,40
+"sim main sparse6","RelTime",0.276820045825644,0.225,40
+"sim main sparse6","chronos_correlated",3.71162395743804,0,40
+"sim main sparse6","chronos_relaxed",3.7116239780518,0,40

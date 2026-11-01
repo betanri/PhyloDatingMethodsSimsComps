@@ -1,0 +1,147 @@
+"group","method","median_extra","share","n_datasets"
+"Codex F min 0.3-0.6","RelTime",0,0.904166666666667,240
+"Codex F min 0.3-0.6","chronos_clock",0.965796180434172,0.0208333333333333,240
+"Codex F min 0.3-0.6","chronos_relaxed",1.02185690736645,0.0166666666666667,240
+"Codex F min 0.3-0.6","chronos_discrete",1.09754495796718,0.0166666666666667,240
+"Codex F min 0.3-0.6","treePL",1.5735273404049,0.0416666666666667,240
+"Codex F min 0.3-0.6","chronos_correlated",2.41036674961947,0,240
+"Codex F min 0.30","RelTime",0,0.791666666666667,24
+"Codex F min 0.30","chronos_relaxed",1.2512362786233,0,24
+"Codex F min 0.30","chronos_clock",1.26852508373254,0.0833333333333333,24
+"Codex F min 0.30","chronos_discrete",1.40301787504286,0,24
+"Codex F min 0.30","treePL",1.64448634549563,0.0833333333333333,24
+"Codex F min 0.30","chronos_correlated",2.66063374945551,0.0416666666666667,24
+"Codex F min 0.45","RelTime",0,0.791666666666667,24
+"Codex F min 0.45","chronos_clock",0.679121862483958,0.0833333333333333,24
+"Codex F min 0.45","chronos_discrete",0.904699369882194,0,24
+"Codex F min 0.45","chronos_relaxed",0.925338184517599,0,24
+"Codex F min 0.45","treePL",1.47594269676869,0.125,24
+"Codex F min 0.45","chronos_correlated",2.14845868415317,0,24
+"Codex F min 0.60","RelTime",0,0.625,24
+"Codex F min 0.60","chronos_clock",0.700841527072406,0.166666666666667,24
+"Codex F min 0.60","chronos_relaxed",0.824572755958579,0,24
+"Codex F min 0.60","chronos_discrete",1.04008511207013,0,24
+"Codex F min 0.60","treePL",1.05799496540515,0.166666666666667,24
+"Codex F min 0.60","chronos_correlated",1.77925531012229,0.0416666666666667,24
+"Codex F min clipped at 1.0","RelTime",0,0.754166666666667,240
+"Codex F min clipped at 1.0","chronos_clock",0.518479803689515,0.0708333333333333,240
+"Codex F min clipped at 1.0","chronos_relaxed",0.560210666256706,0.0916666666666667,240
+"Codex F min clipped at 1.0","chronos_discrete",0.603893622326442,0.0458333333333333,240
+"Codex F min clipped at 1.0","treePL",1.0525431999293,0.0333333333333333,240
+"Codex F min clipped at 1.0","chronos_correlated",1.52808285438363,0.00416666666666667,240
+"Codex F refit","MD-Cat",0,0.0208333333333333,240
+"Codex F refit","RelTime",0,0.5375,240
+"Codex F refit","chronos_relaxed",0.330595362158123,0.241666666666667,240
+"Codex F refit","chronos_clock",0.332843259203009,0.0875,240
+"Codex F refit","chronos_discrete",0.404531440513309,0.0791666666666667,240
+"Codex F refit","treePL",0.722186124059447,0.025,240
+"Codex F refit","chronos_correlated",1.26191863012061,0.00833333333333333,240
+"Codex G min 0.3-0.6","RelTime",0,0.8,240
+"Codex G min 0.3-0.6","chronos_clock",0.749922969505334,0.104166666666667,240
+"Codex G min 0.3-0.6","chronos_discrete",0.830382838594116,0.0375,240
+"Codex G min 0.3-0.6","chronos_relaxed",1.02535310882662,0.0125,240
+"Codex G min 0.3-0.6","treePL",1.51170938565905,0.0416666666666667,240
+"Codex G min 0.3-0.6","chronos_correlated",2.39925805791494,0.00416666666666667,240
+"Codex G min 0.30","RelTime",0,0.916666666666667,24
+"Codex G min 0.30","chronos_clock",1.05869256246616,0.0416666666666667,24
+"Codex G min 0.30","chronos_discrete",1.15975451638838,0,24
+"Codex G min 0.30","chronos_relaxed",1.25599523302345,0,24
+"Codex G min 0.30","treePL",1.73241485975088,0.0416666666666667,24
+"Codex G min 0.30","chronos_correlated",3.104367515258,0,24
+"Codex G min 0.45","RelTime",0,0.833333333333333,24
+"Codex G min 0.45","chronos_clock",0.770232251785089,0.0833333333333333,24
+"Codex G min 0.45","chronos_discrete",0.974979726790233,0.0416666666666667,24
+"Codex G min 0.45","chronos_relaxed",1.0533832003116,0,24
+"Codex G min 0.45","treePL",1.32352864586854,0.0416666666666667,24
+"Codex G min 0.45","chronos_correlated",2.72540295439338,0,24
+"Codex G min 0.60","RelTime",0,0.791666666666667,24
+"Codex G min 0.60","chronos_clock",0.543429698417183,0.166666666666667,24
+"Codex G min 0.60","chronos_discrete",0.668411783107222,0.0416666666666667,24
+"Codex G min 0.60","chronos_relaxed",0.796621556156747,0,24
+"Codex G min 0.60","treePL",1.45599645485156,0,24
+"Codex G min 0.60","chronos_correlated",2.08929880807069,0,24
+"Codex G min clipped at 1.0","RelTime",0,0.65,240
+"Codex G min clipped at 1.0","chronos_clock",0.311431697587293,0.195833333333333,240
+"Codex G min clipped at 1.0","chronos_discrete",0.448983165945352,0.0625,240
+"Codex G min clipped at 1.0","chronos_relaxed",0.516086120680012,0.0625,240
+"Codex G min clipped at 1.0","treePL",0.98134374117586,0.025,240
+"Codex G min clipped at 1.0","chronos_correlated",1.59556526057398,0.00416666666666667,240
+"Codex G refit","RelTime",0.0896982150833002,0.408333333333333,240
+"Codex G refit","MD-Cat",0.145593360854423,0.0166666666666667,240
+"Codex G refit","chronos_clock",0.18453741911838,0.220833333333333,240
+"Codex G refit","chronos_discrete",0.26952183259705,0.125,240
+"Codex G refit","chronos_relaxed",0.283959820146291,0.2,240
+"Codex G refit","treePL",0.768898023046742,0.0208333333333333,240
+"Codex G refit","chronos_correlated",1.35469152017751,0.00833333333333333,240
+"Codex H min 0.3-0.6","RelTime",0,0.90625,160
+"Codex H min 0.3-0.6","chronos_relaxed",0.783061670811543,0,160
+"Codex H min 0.3-0.6","chronos_clock",0.951591258150477,0.05625,160
+"Codex H min 0.3-0.6","chronos_discrete",1.00154814540297,0.01875,160
+"Codex H min 0.3-0.6","chronos_correlated",1.68331454730615,0.01875,160
+"Codex H min 0.3-0.6","treePL",1.71528268610652,0,160
+"Codex H min 0.30","RelTime",0,0.9375,16
+"Codex H min 0.30","chronos_relaxed",1.00835965509514,0,16
+"Codex H min 0.30","chronos_clock",1.06390256172985,0.0625,16
+"Codex H min 0.30","chronos_discrete",1.1524432695901,0,16
+"Codex H min 0.30","chronos_correlated",2.12175066458683,0,16
+"Codex H min 0.30","treePL",2.1626108422716,0,16
+"Codex H min 0.45","RelTime",0,0.875,16
+"Codex H min 0.45","chronos_relaxed",0.806621644525037,0,16
+"Codex H min 0.45","chronos_clock",0.879922322373464,0.0625,16
+"Codex H min 0.45","chronos_discrete",0.90397869936095,0.0625,16
+"Codex H min 0.45","chronos_correlated",1.7335879069784,0,16
+"Codex H min 0.45","treePL",1.90703442263537,0,16
+"Codex H min 0.60","RelTime",0,0.8125,16
+"Codex H min 0.60","chronos_clock",0.671349112221548,0,16
+"Codex H min 0.60","chronos_relaxed",0.700408312068389,0.125,16
+"Codex H min 0.60","chronos_discrete",0.77812285651821,0,16
+"Codex H min 0.60","chronos_correlated",1.29174066575089,0,16
+"Codex H min 0.60","treePL",1.65335183849628,0.0625,16
+"Codex H min clipped at 1.0","RelTime",0,0.7375,160
+"Codex H min clipped at 1.0","chronos_relaxed",0.427783660437612,0.1,160
+"Codex H min clipped at 1.0","chronos_clock",0.499951929271401,0.10625,160
+"Codex H min clipped at 1.0","chronos_discrete",0.553125616659773,0.03125,160
+"Codex H min clipped at 1.0","chronos_correlated",1.0318368181625,0.01875,160
+"Codex H min clipped at 1.0","treePL",1.23412320583863,0.00625,160
+"Codex H refit","RelTime",0,0.54375,160
+"Codex H refit","chronos_relaxed",0.192911678102024,0.28125,160
+"Codex H refit","MD-Cat",0.266847517388139,0.01875,160
+"Codex H refit","chronos_clock",0.313017611429437,0.0875,160
+"Codex H refit","chronos_discrete",0.337111985954603,0.04375,160
+"Codex H refit","chronos_correlated",0.777047899762349,0.0125,160
+"Codex H refit","treePL",1.02056010544604,0.0125,160
+"sim main min 0.3-0.6","RelTime",0.173456451954865,0.35,40
+"sim main min 0.3-0.6","MD-Cat",0.291087636700151,0.275,40
+"sim main min 0.3-0.6","chronos_clock",0.573435101263032,0.15,40
+"sim main min 0.3-0.6","chronos_discrete",0.585660878826802,0.125,40
+"sim main min 0.3-0.6","treePL",0.714090949582265,0.1,40
+"sim main min 0.3-0.6","chronos_relaxed",2.80028029069376,0,40
+"sim main min 0.3-0.6","chronos_correlated",2.80028030940469,0,40
+"sim main min 0.30","chronos_discrete",0.178406506846727,0.225,40
+"sim main min 0.30","chronos_clock",0.252873917877578,0.175,40
+"sim main min 0.30","treePL",0.349093526127215,0.25,40
+"sim main min 0.30","RelTime",0.376078912888763,0.225,40
+"sim main min 0.30","MD-Cat",0.712183892474186,0.125,40
+"sim main min 0.30","chronos_relaxed",1.68535218607205,0,40
+"sim main min 0.30","chronos_correlated",1.68535218636616,0,40
+"sim main min 0.45","RelTime",0.14829845565754,0.35,40
+"sim main min 0.45","chronos_clock",0.322966144711497,0.225,40
+"sim main min 0.45","MD-Cat",0.395022585138768,0.125,40
+"sim main min 0.45","chronos_discrete",0.497489193375875,0.125,40
+"sim main min 0.45","treePL",0.687074686069606,0.175,40
+"sim main min 0.45","chronos_relaxed",2.07103006623027,0,40
+"sim main min 0.45","chronos_correlated",2.07103006708844,0,40
+"sim main min 0.60","RelTime",0.11381511561107,0.45,40
+"sim main min 0.60","chronos_clock",0.64414291329095,0.15,40
+"sim main min 0.60","MD-Cat",0.682655416013062,0.125,40
+"sim main min 0.60","chronos_discrete",0.75451970927471,0.125,40
+"sim main min 0.60","treePL",0.819079611203988,0.15,40
+"sim main min 0.60","chronos_correlated",2.71265827497003,0,40
+"sim main min 0.60","chronos_relaxed",2.71265827629029,0,40
+"sim main refit","MD-Cat",0.0142857266074141,0.45,40
+"sim main refit","RelTime",0.203139124834131,0.25,40
+"sim main refit","chronos_clock",0.33563996189862,0.1,40
+"sim main refit","chronos_discrete",0.543482042742248,0.075,40
+"sim main refit","treePL",0.783044933369519,0.125,40
+"sim main refit","chronos_correlated",2.82833369533629,0,40
+"sim main refit","chronos_relaxed",2.82833369694897,0,40

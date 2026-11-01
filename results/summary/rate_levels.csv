@@ -1,0 +1,36 @@
+"group","method","median_extra","share","n_datasets"
+"clade clocks","RelTime",0,0.8,5
+"clade clocks","MD-Cat",0.436633357397845,0.2,5
+"clade clocks","treePL",2.03301313169392,0,5
+"clade clocks","chronos_correlated",2.83437954511404,0,5
+"clade clocks","chronos_relaxed",2.83437955441189,0,5
+"clade clocks","chronos_clock",2.87607533549372,0,5
+"clade clocks","chronos_discrete",2.87921823595186,0,5
+"high","MD-Cat",0.156588722551309,0.32,25
+"high","chronos_clock",0.165402861293211,0.08,25
+"high","RelTime",0.205085642838947,0.32,25
+"high","chronos_discrete",0.268816634354763,0.2,25
+"high","treePL",0.649074835686767,0.08,25
+"high","chronos_correlated",1.37812034326174,0,25
+"high","chronos_relaxed",1.37812037966357,0,25
+"moderate","MD-Cat",0.102280140566319,0.357142857142857,70
+"moderate","RelTime",0.246376818397701,0.257142857142857,70
+"moderate","treePL",0.310950625915406,0.171428571428571,70
+"moderate","chronos_clock",0.351612698298189,0.128571428571429,70
+"moderate","chronos_discrete",0.427464718627221,0.0857142857142857,70
+"moderate","chronos_correlated",3.1359905028206,0,70
+"moderate","chronos_relaxed",3.13599050478823,0,70
+"rate jumps","MD-Cat",0.0550471626223648,0.45,20
+"rate jumps","chronos_clock",0.0844834425259746,0.2,20
+"rate jumps","chronos_discrete",0.0963047338885371,0.15,20
+"rate jumps","RelTime",0.208267468441656,0.15,20
+"rate jumps","treePL",0.372132676945405,0.05,20
+"rate jumps","chronos_relaxed",3.95855409331923,0,20
+"rate jumps","chronos_correlated",3.95855430002031,0,20
+"very high","MD-Cat",0.226352349899101,0.333333333333333,15
+"very high","RelTime",0.299425100111407,0.333333333333333,15
+"very high","chronos_relaxed",0.35562662787334,0.0333333333333333,15
+"very high","chronos_correlated",0.355626628037703,0.1,15
+"very high","chronos_clock",0.383816112744164,0.0666666666666667,15
+"very high","chronos_discrete",0.432616786330931,0.133333333333333,15
+"very high","treePL",0.874136732779708,0,15
