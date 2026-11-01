@@ -6,7 +6,7 @@ RelTime, treePL, four `chronos` models, and MD-Cat were compared on simulated tr
 
 The main result is also straightforward: **there is no single best dating method.** Performance depends strongly on the process generating among-lineage rate variation and on how informative the calibrations are.
 
-**Status (1 Nov 2026): preliminary.** MD-Cat is still running on part of the benchmark sets. It currently has trees for 28 of the 640 benchmark datasets; all 640 are expected around 2 Nov. The poor-fossil benchmark refits and remaining side sets follow after that. The burst, hard-rate, and early-burst simulations are complete, so those results should not change (except 2–3 MD-Cat trees still missing at two poor-fossil levels of the burst trees).
+**Status (1 Nov 2026): preliminary.** MD-Cat is still running on part of the benchmark sets. It currently has trees for 28 of the 640 benchmark datasets; all 640 are expected around 3 Nov. The poor-fossil benchmark refits and remaining side sets follow after that, and the last runs should end around 9 Nov. The burst, hard-rate, and early-burst simulations are complete, so those results should not change (except 2–3 MD-Cat trees still missing at two poor-fossil levels of the burst trees).
 
 Changes since 31 Oct:
 
